@@ -1,0 +1,32 @@
+.sale-type table td, .authorization-index table td {
+    padding: 5px;
+}
+
+.header .dropdown > a {
+    border-radius: 4px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.mainHeaderMenu ul li span {
+    line-height: 42px;
+}
+
+.logs-main {
+    position: absolute;
+    bottom: 0px;
+    height: 200px;
+    z-index: 9999;
+    background: #f8f8f8;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.logs-main > div {
+    border-bottom: 1px grey solid;
+    padding: 5px;
+    margin-left: 12px;
+}
+

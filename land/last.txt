@@ -1,0 +1,27 @@
+<!--<div class="b_block b_51861 video_is_loaded" data-id="51861" data-b-id="13"
+         data-video-bg="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;dDU9cX_EMyw&quot;}">
+        <div class="video_bg_container">
+            <iframe id="video_bg_id_1478448377201" class="video_bg_player"
+                    style="width: 1903px; height: 1071px; left: 0px; top: -164px;" frameborder="0" allowfullscreen="1"
+                    title="YouTube video player" width="1903" height="1071"
+                    src="https://www.youtube.com/embed/w-wEimu4FsY?iv_load_policy=3&amp;modestbranding=1&amp;autoplay=1&amp;controls=0&amp;showinfo=0&amp;wmode=opaque&amp;branding=0&amp;autohide=1&amp;rel=0&amp;hd=1&amp;enablejsapi=1&amp;widgetid=1"></iframe>
+        </div>
+        <div class="video_bg_protect"></div>
+        <div class="container-fluid">
+            <div class="dark_noise">
+                <div class="container">
+                    <div class="title_1 text-style-title"><p>5 ноября 2016г.<br>Business Design - бесплатный
+                        мастер-класс для дизайнеров и архитекторов</p></div>
+                    <div class="title_2 text-style-subtitle"><p>Мероприятие, на котором Вы получите решения ваших
+                        проблем, с прямым влиянием на конечную чистую прибыль вашей компании.</p></div>
+
+                    <div class="btn_note"><p>ОСТАЛОСЬ ВСЕГО 5 МЕСТ!</p></div>
+                    <div class="btn_wrap">
+                        <a href="https://docs.google.com/forms/d/10Ei0FUXUu08XxbuemSIz-BMCeegPC2SCxKV0PejFEEw/edit?usp=forms_home"
+                           data-action="link" class="btn green">
+                            <div><span>Получить бесплатное приглашение</span></div>
+                        </a></div>
+                </div>
+            </div>
+        </div>
+    </div>-->
